@@ -1,2 +1,79 @@
-# GITtiz
+# 【Github梯子精选】8款免费靠谱上外网手机梯子软件，附送手机V2ray/ssr免费节点分享
 Github梯子精选,免费靠谱上外网手机梯子软件,V2ray/ssr免费节点分享,Google、Facebook、Instagram、YouTube外网梯子,手机外网VPN翻墙
+
+**在外出行或者工作娱乐时候，若想访问Google、Facebook、Instagram、YouTube等外网，必须使用手机外网VPN翻墙。以下列出8款精选于Github的免费手机外网梯子VPN，都是通过个人实测，确保速度和连接性都在高水准范围内，并对其稳定性和网络安全进行比较，快来看看吧！**
+
+## 1.West GO---免费Android手机和IOS手机梯子
+官网地址：[https://xbsj4621.fun/i/ask087](https://xbsj4621.fun/i/ask087)
+
+连接成功率：100%
+
+网速：高
+
+West GO是一款真正免费好用的手机电脑免费VPN梯子软件，连接成功率和稳定性较好。后台节点众多，涵盖了全球大部分国家地区，连接效率非常高，用来刷Youtube视频或者解锁Netflix都很不错，是小编自己常用的一款手机和PC电脑科学上网梯子。
+
+## 2.Tinny---免费手机和PC电脑梯子
+官网地址：[https://go.satr2000.com](https://go.satr2000.com)
+
+连接成功率：100%
+
+网速：高
+
+Tinny提供多达32个国家的节点供以选择，是适合手机和电脑翻墙使用的VPN。新用户用临时邮箱注册即可免费体验三天，到期后更换临时邮箱注册即可，适合外网游戏加速以及观看视频，如果你还在向网友们求一个梯子上外网，那这款有免费V2ray节点和免费SSR节点的梯子肯定适合你。
+
+## 3.Thunder Load
+官网地址：[https://xuebi0702.com](https://xuebi0702.com)
+
+连接成功率：100%
+
+网速：高
+
+Thunder Load是一款在使用时候不限流量且不需注册的免费SSR翻墙梯子软件，操作简单，适合首次使用的用户。且其速度不会有时间上的波动，全天24小时都非常稳定，不会出现无法连接的情况，是一款非常优秀的SSR加速器。
+
+## 4.快云
+官网地址：[https://xuebispeed.com/](https://xuebispeed.com/)
+
+连接成功率：100%
+
+网速：高
+
+快云界面清晰，操作简单，专注于SSR翻墙节点和V2ray翻墙节点，使用美国、韩国或日本的服务器均可连接。且总体的连接成功率几乎能达到100%，在小编心中的免费梯子当中占有一席之地，无论你是在安卓Android手机上使用这个免费梯子，还是在苹果IOS手机上使用这个免费梯子，都能达到非常好的上网速度。
+
+## 5.Newlix
+连接成功率：90%
+
+网速：快
+
+Newlix拥有庞大的用户群体，广受好评。提供28个国家的服务器，覆盖160个不同地点，主打大流量稳定的科学上网VPN。同时，它的安全性非常高，能够加密用户的网络连接，并不保存用户的搜索记录，拥有它，您将不需要向任何人求一个梯子上外网。
+
+## 6.Norvan
+连接成功率：90%
+
+网速：高
+
+Norvan是市场上性价比最高、功能最全的V2ray梯子VPN之一，非常适合需要翻墙的用户，提供全流媒体解锁服务，国外TikTok解锁服务。其网速稳定且快捷，支持多种操作系统（Windows、Android、iOS、Linux），自然也支持Android安卓手机科学上网。
+
+## 7.Link line
+连接成功率：80%
+
+网速：中
+
+Link line无论是在手机翻墙上的稳定性还是上网速度表现都非常不错，特点是没有设备数量限制。Link line的安全性很高，提供多种ssr免费节点和V2ray免费节点，非常适合作为Android手机免费梯子使用，且能保护用户隐私安全。
+
+## 8.Ivacy
+连接成功率：80%
+
+网速：正常
+
+IvacyVPN是一家相对不知名的VPN公司，但在中国封杀VPN期间成功存活，至今被认为是手机翻墙成功率最高的VPN之一，并专为内地翻墙目的而打造。IvacyVPN支持各种平台连接，价格实惠，总体上值得推荐。
+
+## 免费SSR节点分享：
+ssr://amlrZS1zaGx0LmRkbnMtb25seS54eXo6MzA1MDA6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpha3czTmxWS1pBLz9vYmZzcGFyYW09WlRjNVpqUTRPRFk0TVM1dGFXTnliM052Wm5RdVkyOXQmcHJvdG9wYXJhbT1PRGcyT0RFNlMwMWpiSEZhJnJlbWFya3M9VmpRdDVyS3E1cGF3NWI2dTZMMnY1THFSTURFJmdyb3VwPTVwNkI1YTZpNUxxUg 
+
+ssr://dXMubjAxLnBhb3Bhb2Nsb3VkLmN5b3U6MTIzNDU6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMDp0bHMxLjJfdGlja2V0X2F1dGg6WkhObU1tUS8_b2Jmc3BhcmFtPU1tWmlNMkk1TVRjeE1TNXFaQzVvYXcmcHJvdG9wYXJhbT1PVEUzTVRFNlJrUnliRzVHJnJlbWFya3M9NDRDUWJIWXg0NENSVlZNd01TTXhNVGt3TWcmZ3JvdXA9Y0dGdmNHRnZZMnh2ZFdR 
+
+ssr://amlrZS1qbXlkLmRkbnMtb25seS54eXo6MzA0NTA6YXV0aF9hZXMxMjhfc2hhMTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpha3czTmxWS1pBLz9vYmZzcGFyYW09T0RFM016azVNRGswT1M1dGFXTnliM052Wm5RdVkyOXQmcHJvdG9wYXJhbT1PVEE1TkRrNmJuVnhZbTFzWVhGdGJHbyZyZW1hcmtzPVZqUXQ1ckdmNXJpdlNFZERNREV0VGtZJmdyb3VwPTVwNkI1YTZpNUxxUg 
+
+ssr://amlrZTEtZ3p5ZC5kZG5zLW9ubHkueHl6OjMxMzAwOmF1dGhfYWVzMTI4X3NoYTE6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6ZVZRMlFXMDEvP29iZnNwYXJhbT1ZMk5sWWpBeE1ERTRNamt1YldsamNtOXpiMlowTG1OdmJRJnByb3RvcGFyYW09TVRBeE9ESTVPbWd6YjFKYWJRJnJlbWFya3M9U2tzeExWWTBMZVc1di1TX2hEQXgmZ3JvdXA9NXA2QjVhNmk1THFS 
+
+ssr://aWVwbC5oay5zdG9oYS5yYXBpZGx5LmNsb3VkOjI2OTUwOmF1dGhfYWVzMTI4X21kNTphZXMtMTI4LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6VVVkS05VWkQvP29iZnMtcGFyYW09WWpnME1EQXpNRFF4Tmk1aWFXNW5MbU52YlEmcHJvdG9wYXJhbT1NekEwTVRZNllXTjVPRGQxTXpoek5YSSZyZW1hcmtzPVZXNXBkR1ZrSUZOMFlYUmxjeUF3TVNCOElFMWxaR2xoJmdyb3VwPVIzTnZkU0JEYkc5MVpB
